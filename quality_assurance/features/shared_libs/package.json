@@ -1,0 +1,14 @@
+{
+  "name": "shared_libs",
+  "version": "1.0.0",
+  "description": "pasta com arquivos para serem compartilhados entre projetos",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Fraga",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "safe-buffer": "^5.1.1"
+  }
+}
