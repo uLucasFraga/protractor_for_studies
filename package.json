@@ -5,7 +5,7 @@
   "devDependencies": {
     "chai": "^4.1.2",
     "chai-as-promised": "^7.1.1",
-    "cucumber": "^4.2.1",
+    "cucumber": "^5.0.2",
     "cucumber-html-reporter": "^4.0.3",
     "protractor": "^5.4.0",
     "protractor-cucumber-framework": "^4.2.0",
