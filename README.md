@@ -12,7 +12,7 @@ Repositório destinado para aprendermos a usar testes automatizados com o Protra
 
 ```npm install``` ou  ```npm run simple_build```
 
-(raíz: `/protractor_basic` e pasta: `/shared_libs`)
+(raíz: `/protractor_for_beginners` e na pasta: `/shared_libs`)
 
 ## Iniciando os passos para rodar os testes
 * Entrar pelo terminal na raíz do projeto
@@ -22,7 +22,7 @@ Repositório destinado para aprendermos a usar testes automatizados com o Protra
 
 ## Rodando os testes de regressão
 
-* Entrar na raíz do projeto `/protractor_basic`
+* Entrar na raíz do projeto `/protractor_for_beginners`
 * Usar o comando ```npm run test```
 
 Ou podemos seguir esse caminho abaixo.
@@ -34,7 +34,7 @@ Ou podemos seguir esse caminho abaixo.
 
 ## Resumindo o projeto
 * A pasta principal é a `quality_assurance` e dentro dela temos a `features`
-* `protractor_for_beginner.feature` são nossos cenários de exemplo
+* `protractor_example.feature` são nossos cenários de exemplo
 * `page_objetcs` ficam nossos elementos e métodos da página
 * `step_definitions` são nossos steps gerados pelo cucumber
 * `report` será uma a pasta onde o cucumber colocará o report.html (caso não exista, ele criará ao final dos testes)
