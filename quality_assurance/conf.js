@@ -19,7 +19,6 @@ exports.config = {
   allScriptsTimeout: 30000,
   rootElement: '*[ng-app]',
   baseUrl: environmentParameters.baseUrl,
-  SELENIUM_PROMISE_MANAGER: false,
   params: {
 
   },
