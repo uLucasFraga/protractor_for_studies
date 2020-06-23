@@ -1,6 +1,6 @@
-# PROTRACTOR + CUCUMBERJS - básico
+# PROTRACTOR-FOR-STUDIES
 
-Repositório destinado para aprendermos a usar testes automatizados com o Protractor.
+Repositório destinado para aprendermos a usar testes automatizados com o Protractor e o CucumberJS
 
 ## Pré-requisitos para rodar localmente
 * [Intalação do node](https://nodejs.org/en/download/)
@@ -12,7 +12,7 @@ Repositório destinado para aprendermos a usar testes automatizados com o Protra
 
 ```npm install``` ou  ```npm run simple_build```
 
-(raíz: `/protractor_for_beginners` e na pasta: `/shared_libs`)
+(raíz: `/protractor_for_studies` e na pasta: `/shared_libs`)
 
 ## Iniciando os passos para rodar os testes
 * Entrar pelo terminal na raíz do projeto
@@ -22,7 +22,7 @@ Repositório destinado para aprendermos a usar testes automatizados com o Protra
 
 ## Rodando os testes de regressão
 
-* Entrar na raíz do projeto `/protractor_for_beginners`
+* Entrar na raíz do projeto `/protractor_for_studies`
 * Usar o comando ```npm run test```
 
 Ou podemos seguir esse caminho abaixo.
