@@ -27,7 +27,7 @@
   "author": "Lucas Fraga",
   "license": "MIT",
   "dependencies": {
-    "chromedriver": "^2.43",
+    "chromedriver": "^86.0",
     "yarn": "^1.10.1"
   }
 }
